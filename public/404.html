@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+    <script>
+      // GitHub Pages SPA fallback - redirect 404 to index.html
+      // to preserve client-side routing
+      var loc = window.location;
+      // Replace the 404 path with root index and keep the hash route
+      var newUrl = loc.protocol + '//' + loc.host + '/Tin-Anniversary/' + (loc.hash || '');
+      // If no hash, redirect to root
+      if (newUrl === loc.href || newUrl === loc.href + '#') {
+        window.location.href = '/Tin-Anniversary/';
+      } else {
+        window.location.href = newUrl;
+      }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
