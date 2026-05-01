@@ -64,7 +64,7 @@ const defaultTracks: Track[] = [
     description: '十年锡婚，爱的序章',
     duration: '',
     coverUrl: '',
-    audioUrl: '/images/music/《拾年序章》.mp3',
+    audioUrl: '/Tin-Anniversary/images/music/《拾年序章》.mp3',
     lyrics: LYRICS_拾年序章,
   },
   {
@@ -73,7 +73,7 @@ const defaultTracks: Track[] = [
     description: '你是我生命中的魔力',
     duration: '',
     coverUrl: '',
-    audioUrl: "/images/music/Life's Magic_no-watermark (1).mp3",
+    audioUrl: "/Tin-Anniversary/images/music/Life's Magic_no-watermark (1).mp3",
     lyrics: `Sunlight dancing on the hardwood floor
 Coffee's steaming, you're asking for more
 You're messy with your hair, just waking up
@@ -775,7 +775,7 @@ export default function MusicPage() {
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/images/cover-photo.jpeg"
+            src="/Tin-Anniversary/images/cover-photo.jpeg"
             alt=""
             className="w-full h-full object-cover opacity-30"
           />

@@ -35,7 +35,7 @@ export default function BackgroundMusic() {
     <>
       <audio
         ref={audioRef}
-        src="/images/Cold_Coffee_Mornings.mp3"
+        src="/Tin-Anniversary/images/Cold_Coffee_Mornings.mp3"
         loop
         preload="auto"
       />

@@ -73,7 +73,7 @@ export default function HomePage() {
           {/* Couple Photo */}
           <div className="relative mx-auto mb-10 w-64 h-64 sm:w-80 sm:h-80 rounded-2xl overflow-hidden shadow-xl">
             <img
-              src="/images/cover-photo.jpeg"
+              src="/Tin-Anniversary/images/cover-photo.jpeg"
               alt="我们的合照"
               className="w-full h-full object-cover"
             />
