@@ -116,7 +116,7 @@ Best answer I ever found... is you.`,
     description: '同星赴余生，三餐四季温柔共韶华',
     duration: '',
     coverUrl: '',
-    audioUrl: '/images/music/同星赴余生_no-watermark.mp3',
+    audioUrl: '/Tin-Anniversary/images/music/同星赴余生_no-watermark.mp3',
     lyrics: `课桌旁 初识的青春盛夏
 缘分落在 同班的年华
 浅淡好感 酿成知己牵挂
@@ -173,7 +173,7 @@ Best answer I ever found... is you.`,
     description: '两千条说说，读遍你的从前',
     duration: '',
     coverUrl: '',
-    audioUrl: '/images/music/城际情书_no-watermark.mp3',
+    audioUrl: '/Tin-Anniversary/images/music/城际情书_no-watermark.mp3',
     lyrics: `屏幕亮了又暗 等你一句晚安
 绿皮火车载着期盼 开向你那边
 手牵手一步两步三步四步望着天
@@ -237,7 +237,7 @@ Best answer I ever found... is you.`,
     description: '等未来，并肩再也不分开',
     duration: '',
     coverUrl: '',
-    audioUrl: '/images/music/《等你赴未来》_no-watermark.mp3',
+    audioUrl: '/Tin-Anniversary/images/music/《等你赴未来》_no-watermark.mp3',
     lyrics: `屏幕微光 陪我到夜半
 等你晚安 把孤单冲淡
 火车开过 沉默的夜晚
@@ -302,7 +302,7 @@ Best answer I ever found... is you.`,
     description: '你策划人间圆满，我策划一生不渝',
     duration: '',
     coverUrl: '',
-    audioUrl: '/images/music/《策划之外的浪漫》_no-watermark.mp3',
+    audioUrl: '/Tin-Anniversary/images/music/《策划之外的浪漫》_no-watermark.mp3',
     lyrics: `你亲手雕琢 无数场婚礼
 看过人海相拥 温柔的轨迹
 落笔万千期许 圆满了朝夕
@@ -378,7 +378,7 @@ Best answer I ever found... is you.`,
     description: '瞒着全世界，完成我们的约',
     duration: '',
     coverUrl: '',
-    audioUrl: '/images/music/私藏婚约_no-watermark.mp3',
+    audioUrl: '/Tin-Anniversary/images/music/私藏婚约_no-watermark.mp3',
     lyrics: `走过十二载春秋 少年心事依旧
 同窗时温柔眼眸 悄悄藏了好久
 见过太多烟火 别人盛大的邂逅
@@ -443,7 +443,7 @@ Best answer I ever found... is you.`,
     description: '圆你一生期许，迟到的婚礼',
     duration: '',
     coverUrl: '',
-    audioUrl: '/images/music/十一月十一的约定_no-watermark.mp3',
+    audioUrl: '/Tin-Anniversary/images/music/十一月十一的约定_no-watermark.mp3',
     lyrics: `二零一八年 十一月十一
 双十一的风 轻轻吹起
 今天是你的生日 本该满心欢喜
@@ -486,7 +486,7 @@ Best answer I ever found... is you.`,
     description: '从青涩年少，走到白首不离分',
     duration: '',
     coverUrl: '',
-    audioUrl: '/images/music/一切都是上天安排好的缘分.mp3',
+    audioUrl: '/Tin-Anniversary/images/music/一切都是上天安排好的缘分.mp3',
     lyrics: `嗯～
 缘分早已注定
 是上天的宿命
@@ -575,7 +575,7 @@ QQ对话框 陪着四季更替
     description: '你是人间安静的诗篇',
     duration: '',
     coverUrl: '',
-    audioUrl: '/images/music/你的作品_no-watermark.mp3',
+    audioUrl: '/Tin-Anniversary/images/music/你的作品_no-watermark.mp3',
     lyrics: `## 主歌A1
 半开窗棂 框住一抹远山
 靛蓝褪尽 流云漫过峰峦

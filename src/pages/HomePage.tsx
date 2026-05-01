@@ -4,7 +4,7 @@ import { Play, Clock, BookHeart, Gift, Disc, X } from 'lucide-react'
 import { Card, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 
-const VIDEO_URL = '/images/写给最爱的策划师小姐姐___我们也想这样被骗啊.mp4'
+const VIDEO_URL = '/Tin-Anniversary/images/写给最爱的策划师小姐姐___我们也想这样被骗啊.mp4'
 
 const quickLinks = [
   {
