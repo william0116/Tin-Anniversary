@@ -9,7 +9,7 @@ import MusicPage from '@/pages/MusicPage'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Tin-Anniversary">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />} />
