@@ -4,7 +4,7 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: './',
+  base: '/Tin-Anniversary/',
   plugins: [react()],
   resolve: {
     alias: {
